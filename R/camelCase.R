@@ -10,4 +10,4 @@
 #' camelCase()
 #'
 #' @export
-camelCase = function() return("cool")
+camelCase <- function() return("cool")
