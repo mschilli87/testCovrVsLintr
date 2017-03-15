@@ -5,3 +5,4 @@ Description: Minimal R package demonstrating https://github.com/jimhester/covr/i
 Title: test covr vs. lintr
 Author: Marcel Schilling <marcel.schilling@mdc-berlin.de>
 Maintainer: Marcel Schilling <marcel.schilling@mdc-berlin.de>
+RoxygenNote: 6.0.1
