@@ -6,3 +6,4 @@ Title: test covr vs. lintr
 Author: Marcel Schilling <marcel.schilling@mdc-berlin.de>
 Maintainer: Marcel Schilling <marcel.schilling@mdc-berlin.de>
 RoxygenNote: 6.0.1
+Suggests: testthat
