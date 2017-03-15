@@ -1,0 +1,7 @@
+Package: testCovrVsLintr
+Version: 0.1
+License: file LICENSE
+Description: Minimal R package demonstrating https://github.com/jimhester/covr/issues/253.
+Title: test covr vs. lintr
+Author: Marcel Schilling <marcel.schilling@mdc-berlin.de>
+Maintainer: Marcel Schilling <marcel.schilling@mdc-berlin.de>
